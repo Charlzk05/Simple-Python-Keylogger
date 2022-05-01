@@ -10,4 +10,4 @@ A simple keylogger for Windows
 Article - ``https://www.thepythoncode.com/article/write-a-keylogger-python``
 
 # [ Screenshot ]
-![Alt text](/relative/path/to/img.jpg?raw=true "Screenshot 1")
+![Alt text](/Images/Screenshot1.png "Screenshot 1")
