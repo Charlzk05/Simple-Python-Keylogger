@@ -1,6 +1,9 @@
 # [ Simple Python Keylogger ]
 A simple keylogger for Windows using Keyboard
 
+# [ Package ]
+- Keyboard
+
 # [ Usage ]
 1. Download or clone the repository. Open a Powershell or Command Prompt Terminal in the repository's directory.
 2. Run ``python Keylogger.py``
