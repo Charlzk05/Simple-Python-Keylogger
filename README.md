@@ -1,5 +1,5 @@
 # [ Simple Python Keylogger ]
-A simple keylogger for Windows using Keyboard
+A simple keylogger for Windows using Keyboard. Only made for educational purposes!
 
 # [ Package ]
 - Keyboard
